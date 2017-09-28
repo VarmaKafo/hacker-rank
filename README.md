@@ -1,2 +1,2 @@
 # studious-pancake
-All of my Python projects.
+Enjoy having a look at my projects.
