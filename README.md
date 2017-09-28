@@ -1,2 +1,2 @@
 # studious-pancake
-Enjoy having a look at my projects.
+This is where all of my test projects will sit.
